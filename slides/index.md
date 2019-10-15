@@ -4,5 +4,5 @@
 * [Group project rules](01-project.pdf)
 * [What is HCI?](02-whatisHCI.pdf)
 * [Needfinding](03-needfinding.pdf)
-* Prototyping
+* [Prototyping](04-prototyping.pdf)
 * Heuristics
