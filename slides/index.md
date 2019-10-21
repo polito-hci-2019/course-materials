@@ -5,4 +5,5 @@
 * [What is HCI?](02-whatisHCI.pdf)
 * [Needfinding](03-needfinding.pdf)
 * [Prototyping](04-prototyping.pdf)
+* [Guidelines](05-guidelines.pdf)
 * Heuristics
