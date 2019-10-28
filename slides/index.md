@@ -6,4 +6,4 @@
 * [Needfinding](03-needfinding.pdf)
 * [Prototyping](04-prototyping.pdf)
 * [Guidelines](05-guidelines.pdf)
-* Heuristics
+* [Heuristics](06-heuristics.pdf)
