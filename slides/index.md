@@ -7,3 +7,4 @@
 * [Prototyping](04-prototyping.pdf)
 * [Guidelines](05-guidelines.pdf)
 * [Heuristics](06-heuristics.pdf)
+* [Applying the heuristics](07-heuristics-exercise.pdf) (an exercise)
