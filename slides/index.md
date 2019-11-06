@@ -1,4 +1,4 @@
-# Lecture Slides (HCI 2018/2019)
+# Lecture Slides (HCI 2019/2020)
 
 * [Introduction to the course](00-intro.pdf)
 * [Group project rules](01-project.pdf)
