@@ -10,3 +10,4 @@
 * [Applying the heuristics](07-heuristics-exercise.pdf) (an exercise)
 * [Visual design](08-visualdesign.pdf)
 * [Multi-modal interaction](09-multimodal.pdf)
+* [Voice User Interface (VUI)](10-vui.pdf)
