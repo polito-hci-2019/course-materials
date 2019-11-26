@@ -11,3 +11,4 @@
 * [Visual design](08-visualdesign.pdf)
 * [Multi-modal interaction](09-multimodal.pdf)
 * [Voice User Interface (VUI)](10-vui.pdf)
+* [Voice User Interface on the Web](11-vui-web.pdf)
