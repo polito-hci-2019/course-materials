@@ -11,3 +11,7 @@
 * [Visual design](08-visualdesign.pdf)
 * [Multi-modal interaction](09-multimodal.pdf)
 * [Voice User Interface (VUI)](10-vui.pdf)
+* [Voice User Interface on the web](11-vui-web.pdf)
+* [User evaluation: Usability Testing](12-usability-testing.pdf)
+* [User evaluation: Controlled Experiments](13-user-study.pdf)
+* [Exercise: Chi-Square Test](14-chi-square-exercise.pdf)
